@@ -1,0 +1,34 @@
+# Node.js
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vite
+
+# Vite build output
+dist
+
+# dotenv environment files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode
+
+# Optional: Inngest local state
+.inngest
+
+# Optional: Mongo dump files
+dump
+
+# Optional: coverage reports
+coverage
