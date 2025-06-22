@@ -55,7 +55,7 @@ Backend .env:
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
 MAILTRAP_SMTP_HOST=your_mailtrap_host
-MAILTRAP_SMTP_PORT=2525
+MAILTRAP_SMTP_PORT=your_mailtrap_port
 MAILTRAP_SMTP_USER=your_mailtrap_user
 MAILTRAP_SMTP_PASS=your_mailtrap_pass
 GEMINI_API_KEY=your_gemini_api_key
