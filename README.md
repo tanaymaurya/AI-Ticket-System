@@ -1,4 +1,4 @@
-#AI Ticket System 🎟️🤖
+# AI Ticket System 🎟️🤖
 Full-stack AI-powered support ticket system with automatic ticket triage and assignment.
 
 ✨ Features
